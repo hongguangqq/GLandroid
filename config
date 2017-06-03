@@ -3,4 +3,8 @@
 	repositoryformatversion = 0
 	filemode = false
 	symlinks = false
+<<<<<<< HEAD
 \
+=======
+	ignorecase = true
+>>>>>>> 741ec3b98555002b35b26d3a808cd12545405430
