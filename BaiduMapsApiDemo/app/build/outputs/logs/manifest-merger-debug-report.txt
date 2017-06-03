@@ -1,0 +1,377 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:2:1-223:12
+	package
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:8:9-34
+		INJECTED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml
+		INJECTED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:11:5-178:19
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:13:9-45
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:12:9-56
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:15:9-17:64
+	android:value
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:17:13-61
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:16:13-52
+activity#baidumapsdk.demo.BMapApiDemoMain
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:23:13-44
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:21:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:20:13-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:24:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:26:27-74
+activity#baidumapsdk.demo.BaseMapDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:29:9-34:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:33:13-54
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:31:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:30:13-56
+activity#baidumapsdk.demo.FragmentTableActivity
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:35:9-40:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:38:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:39:13-54
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:36:13-66
+activity#baidumapsdk.demo.MapFragmentDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:41:9-46:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:45:13-59
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:43:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:42:13-60
+activity#baidumapsdk.demo.MultiMapViewDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:47:9-52:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:51:13-55
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:48:13-61
+activity#baidumapsdk.demo.GeometryDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:53:9-58:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:57:13-55
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:55:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:54:13-57
+activity#baidumapsdk.demo.RadarDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:59:9-64:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:62:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:63:13-52
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:61:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:60:13-54
+activity#baidumapsdk.demo.FavoriteDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:65:9-70:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:69:13-55
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:67:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:66:13-57
+activity#baidumapsdk.demo.LocationDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:71:9-76:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:74:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:75:13-55
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:73:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:72:13-57
+activity#baidumapsdk.demo.MapControlDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:77:9-82:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:81:13-54
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:79:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:78:13-59
+activity#baidumapsdk.demo.UISettingDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:83:9-88:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:86:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:87:13-49
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:85:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:84:13-58
+activity#baidumapsdk.demo.LayersDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:89:9-94:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:93:13-53
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:91:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:90:13-55
+activity#baidumapsdk.demo.OverlayDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:95:9-100:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:99:13-54
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:97:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:96:13-56
+activity#baidumapsdk.demo.OfflineDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:101:9-106:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:104:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:105:13-54
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:103:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:102:13-56
+activity#baidumapsdk.demo.PoiSearchDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:107:9-112:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:111:13-50
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:109:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:108:13-58
+activity#baidumapsdk.demo.RoutePlanDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:113:9-118:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:116:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:117:13-52
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:115:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:114:13-58
+activity#baidumapsdk.demo.GeoCoderDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:119:9-124:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:122:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:123:13-54
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:121:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:120:13-57
+activity#baidumapsdk.demo.BusLineSearchDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:125:9-130:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:128:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:129:13-50
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:127:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:126:13-62
+activity#baidumapsdk.demo.HeatMapDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:131:9-136:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:134:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:135:13-54
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:133:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:132:13-56
+activity#baidumapsdk.demo.ShareDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:137:9-142:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:140:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:141:13-52
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:139:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:138:13-54
+activity#baidumapsdk.demo.ShareDemoActivity
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:143:9-148:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:146:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:147:13-52
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:145:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:144:13-62
+activity#baidumapsdk.demo.OpenBaiduMap
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:149:9-154:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:152:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:153:13-60
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:151:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:150:13-57
+activity#baidumapsdk.demo.CloudSearchActivity
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:155:9-160:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:158:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:159:13-52
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:157:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:156:13-64
+activity#baidumapsdk.demo.CloudSearchDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:161:9-166:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:164:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:165:13-69
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:163:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:162:13-60
+activity#baidumapsdk.demo.OpenglDemo
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:167:9-172:20
+	android:screenOrientation
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:170:13-49
+	android:label
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:171:13-53
+	android:configChanges
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:169:13-63
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:168:13-55
+service#com.baidu.location.f
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:173:9-177:19
+	android:enabled
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:175:13-35
+	android:process
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:176:13-38
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:174:13-48
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:180:5-181:23
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:180:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:182:5-183:23
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:182:22-64
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:184:5-85
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:184:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:185:5-186:23
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:185:22-65
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:187:5-76
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:187:22-73
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:188:5-76
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:188:22-73
+uses-permission#android.permission.GET_TASKS
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:190:5-68
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:190:22-65
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:191:5-192:23
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:191:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:193:5-73
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:193:22-70
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:195:2-94
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:195:19-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:197:2-92
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:197:19-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:205:2-88
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:205:19-69
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:211:2-97
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:211:19-78
+uses-permission#android.permission.READ_LOGS
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:213:2-81
+	android:name
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:213:19-62
+supports-screens
+ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:216:5-221:39
+	android:largeScreens
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:218:9-36
+	android:smallScreens
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:221:9-36
+	android:normalScreens
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:219:9-38
+	android:resizeable
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:220:9-34
+	android:anyDensity
+		ADDED from E:\utils\BaiduMapsApiDemo\app\src\main\AndroidManifest.xml:217:9-34

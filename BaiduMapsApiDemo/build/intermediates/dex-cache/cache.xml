@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\utils\BaiduMapsApiDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-2e6e25d109b7d5cb6678a669b8dfd80fa379256f.jar" />
+    </item>
+    <item
+        jar="E:\utils\BaiduMapsApiDemo\app\libs\locSDK_5.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="389047997db28fcb848dc4247c5590a08b7ff769">
+        <dex dex="E:\utils\BaiduMapsApiDemo\app\build\intermediates\pre-dexed\debug\locSDK_5.2-ba1051ebc001c4e40271c69a9eb9ed89b99c8be9.jar" />
+    </item>
+    <item
+        jar="E:\utils\BaiduMapsApiDemo\app\libs\baidumapapi_v3_5_0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ba79500bb64218f10b5fd0d5ea54503b2bf6b3bb">
+        <dex dex="E:\utils\BaiduMapsApiDemo\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_5_0-a017fa2eaed47c056c353a3c26e1ef6db64c9076.jar" />
+    </item>
+
+</items>
